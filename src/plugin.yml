@@ -1,0 +1,5 @@
+main: com.simpleduino.shopAPI.shopAPIPlugin
+name: ShopAPI
+author: Fabien Aubret
+website: http://simple-duino.com
+version: 1.0
