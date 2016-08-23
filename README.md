@@ -1,5 +1,6 @@
 # ShopAPI
 ### Développé par Fabien Aubret, [SimpleDuino](http://simple-duino.com), pour [NativGaming](http://nativgaming.com)
+### Spigot 1.8.8
 
 ## Description
 ShopAPI est une API permettant de simplifier l'interaction des autres plugins avec un système de shop.
